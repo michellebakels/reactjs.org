@@ -15,6 +15,11 @@ March 20 - 21, 2025. In-person in Paris, France (hybrid event)
 
 [Website](https://react.paris/) - [Twitter](https://x.com/BeJS_)
 
+### React Miami 2025 {/*react-miami-2025*/}
+April 17 - 18, 2025. In-person in Miami, FL, USA (hybrid event)
+
+[Website](https://reactmiami.com/) - [Twitter](https://x.com/ReactMiamiConf)
+
 ### React Native Connection 2025 {/*react-native-connection-2025*/}
 April 3 (Reanimated Training) + April 4 (Conference), 2025. Paris, France.
 
